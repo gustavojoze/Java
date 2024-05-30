@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/OperacoesBasicas/Meu/Compras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/OperacoesBasicas/Meu/carinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/Meu/src/OrdenacaoNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/OrdenacaoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/CatalogoLivros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Meu/src/Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Meu/src/SomaNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/SomaNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/ConjuntoConvidado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/Convidado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/Meu/ConjuntoPalavrasUnicas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/AgendaContato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Meu/ListaDeTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Meu/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dio/ContaBancaria/ContaBancaria/src/ContaTerminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dio/ContaBancaria/bin/ContaTerminal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Dio/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoFeitoPorMim/Projeto_Bootcamp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +49,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717096090100</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1717096916526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717096916527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firts" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

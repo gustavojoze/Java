@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/OperacoesBasicas/Meu/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/OperacoesBasicas/Meu/carinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/Meu/src/OrdenacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/OrdenacaoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Ordenacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Meu/src/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/Meu/src/SomaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/list/Pesquisa/SomaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/ConjuntoConvidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/OperacoesBasicas/src/Meu/ConjuntoPalavrasUnicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/AgendaContato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Meu/ListaDeTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../collections-java-api-2023-master/Meu/java/set/Pesquisa/src/Meu/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dio/ContaBancaria/ContaBancaria/src/ContaTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dio/ContaBancaria/bin/ContaTerminal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoFeitoPorMim/Projeto_Bootcamp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hCRUdw8jZXzXb6CvuSLiPewvRq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gj_so/OneDrive/Documentos/Programação/Java/Dio/JavaPOO/Projeto_Bootcamp/Projeto_Bootcamp"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="" />
+      <created>1717096090100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717096090100</updated>
+    </task>
+    <servers />
+  </component>
+</project>

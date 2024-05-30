@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="Subindo classes: Mentoria, Curso e Main">
-      <change afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="d049eaf7-13ac-4eb8-9f06-a401a1fb29de" name="Changes" comment="Subindo classes: Bootcamp, Conteudo e Dev. E alterando as classes Curso, Mentoria.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,14 @@
     "last_opened_file_path": "C:/Users/gj_so/OneDrive/Documentos/Programação/Java/Dio/JavaPOO/Projeto_Bootcamp/Projeto_Bootcamp"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.desafio.dominio.Main" />
       <module name="src" />
@@ -75,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -128,13 +135,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717099492477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Subindo classes: Bootcamp, Conteudo e Dev. E alterando as classes Curso, Mentoria.">
+      <option name="closed" value="true" />
+      <created>1717102743514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717102743514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firts" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Subindo classes: Mentoria, Curso e Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subindo classes: Mentoria, Curso e Main" />
+    <MESSAGE value="Subindo classes: Bootcamp, Conteudo e Dev. E alterando as classes Curso, Mentoria." />
+    <option name="LAST_COMMIT_MESSAGE" value="Subindo classes: Bootcamp, Conteudo e Dev. E alterando as classes Curso, Mentoria." />
   </component>
 </project>

@@ -21,5 +21,5 @@ public abstract class Conteudo {
         this.descricao = descricao;
     }
 
-    public abstract double CalcularXp();
+    public abstract double calcularXp();
 }

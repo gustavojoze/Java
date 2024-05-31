@@ -52,12 +52,21 @@ public void progredir(){
     if(conteudo.isPresent()){
         this.conteudosConcluidos.add(conteudo.get());
         this.conteudosInscritos.remove(conteudo.get());
+        System.out.println(this.nome+" progrediu!!!");
     }else{
-        System.err.println("Você não está matriculado em nenhum conteúdo!");
+        System.err.println("Oi "+this.nome + ", sinto muito, mas você não está matriculado em nenhum conteúdo!");
     }
     }
 public double calcularTotalXp(){
  return this.conteudosConcluidos.stream().mapToDouble(Conteudo::calcularXp).sum();
 }
 
+    @Override
+    public String toString() {
+        return "Dev{" +
+                "nome='" + nome + '\'' +
+                ", conteudosInscritos=" + conteudosInscritos +
+                ", conteudosConcluidos=" + conteudosConcluidos +
+                '}';
+    }
 }
